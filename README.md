@@ -89,12 +89,12 @@ sudo apt install python3-tk    # Debian/Ubuntu
 
 ### Double-click
 
-On Windows, double-click `gnss_flight_filter.py` to launch (if `.py` files are associated with Python).
+On Windows, double-click `Gnss_filter.py` to launch.
 
 ### Command line
 
 ```bash
-python gnss_flight_filter.py
+python Gnss_filter.py
 ```
 
 ### Steps
